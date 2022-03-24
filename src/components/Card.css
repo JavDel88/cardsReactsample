@@ -1,0 +1,22 @@
+.Card {
+    padding: 2rem;
+    width: 200px;
+    background-color: #eee;
+    border-radius: 10px;    
+}
+
+ul {
+    list-style: none;
+}
+
+.green{
+    background-color: lightgreen
+}
+
+.blue{
+    background-color: lightblue;
+}
+
+.red{
+    background-color: lightcoral;
+}
